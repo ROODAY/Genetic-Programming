@@ -1,4 +1,3 @@
-# Genetic-Programming
-genes and stuff
+# Genetic Programming
 
-adding some cool stuff
+Repository of Genetic Programming examples and projects for MakeBU.
